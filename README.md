@@ -7,7 +7,7 @@ Python versions supported:
 
 ### Installing
 
-You can recreate the conda environment used for this analysis with
+You can recreate the conda environment used for this analysis with:
 
 ```
 conda enf create -f environment.yml
@@ -23,19 +23,19 @@ We want to train and test a _Deep Neural Network_ (DNN) with Keras and a _Booste
 
 At the end the [branching fraction](https://en.wikipedia.org/wiki/Branching_fraction) for the process is calculated. 
 
-## Authors:
+### Authors:
 
 - [Valeria Fioroni](https://github.com/valeriafioroni) (University of Padova)
 - [Philipp Zehetner](https://github.com/PhilippZ94) (University of Padova, Ludwig Maximilian University of Munich)
 - [Matteo Guida](https://github.com/matteoguida) (University of Padova)
 
-## Supervised by:
+### Supervised by:
 
 - Professor Marco Zanetti (University of Padova, CERN)
 - Professor Stefano Lacaprara (University of Padova, BELLE2)
 
 ## Useful External Links:
 1. [A high-bias, low-variance introduction to Machine Learning for physicists
-](https://arxiv.org/abs/1803.08823) - Complete and continuously updated review provided with explanatory Jupyter notebooks
-2. [Scikit-HEP project](http://scikit-hep.org/) - Particle Physics data analysis in Python
+](https://arxiv.org/abs/1803.08823) - Complete and continuously updated review provided with explanatory Jupyter notebooks.
+2. [Scikit-HEP project](http://scikit-hep.org/) - Particle Physics data analysis in Python.
 
