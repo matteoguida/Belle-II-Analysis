@@ -20,7 +20,8 @@ One of the studies carried out with the [Belle II experiment](https://belle2.jp/
 </p> 
 
 We want to train and test a _Deep Neural Network_ (DNN) with Keras and a _Boosted Decision Tree_ with XGBoost on Montecarlo samples with labeled data and use the best models to find our signal in unlabelled data (Data Challenge).
-In the end the [branching fraction](https://en.wikipedia.org/wiki/Branching_fraction) for the process is calculated. 
+
+At the end the [branching fraction](https://en.wikipedia.org/wiki/Branching_fraction) for the process is calculated. 
 
 ## Authors:
 
