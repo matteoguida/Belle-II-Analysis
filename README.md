@@ -13,19 +13,13 @@ You can recreate the conda environment used for this analysis with
 conda enf create -f environment.yml
 ```
 # Goal
-One of the studies carried out with the Belle II experiment is time-dependent CP asymmetry in the decay channel :
+One of the studies carried out with the [Belle II experiment](https://belle2.jp/#) is time-dependent CP asymmetry in the decay channel :
 
 <p align="center">
 <img src="http://latex.codecogs.com/gif.latex?\bar{B^0} / B^0 \rightarrow \eta' \left( \eta \left( \gamma \gamma \right) \pi^+ \pi^- \right) K^0_S \left( \pi^+ \pi^- \right)" border="0"/>
 </p> 
 
-Train and test a _Deep Neural Network_ (DNN) with Keras and a _Boosted Decision Tree_ with XGBoost on Montecarlo sample with labeled data and use the best models to find our signal in unlabelled data (Data Challenge).
-Signal-background discrimination with deep neural networks for the study of time-dependent CP asymmetry in 
-<p align="center">
- <a href="https://www.codecogs.com/eqnedit.php?latex=B^{0}&space;\longrightarrow&space;\eta^{'}K^{0}_{S}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?B^{0}&space;\longrightarrow&space;\eta^{'}K^{0}_{S}" title="B^{0} \longrightarrow \eta^{'}K^{0}_{S}" /></a>
-</p> 
-
-with [Belle II experiment](https://belle2.jp/#).
+We want to train and test a _Deep Neural Network_ (DNN) with Keras and a _Boosted Decision Tree_ with XGBoost on Montecarlo samples with labeled data and use the best models to find our signal in unlabelled data (Data Challenge).
 
 ## Authors:
 
