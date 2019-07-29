@@ -38,4 +38,5 @@ At the end the [branching fraction](https://en.wikipedia.org/wiki/Branching_frac
 1. [A high-bias, low-variance introduction to Machine Learning for physicists
 ](https://arxiv.org/abs/1803.08823) - Complete and continuously updated review provided with explanatory Jupyter notebooks.
 2. [Scikit-HEP project](http://scikit-hep.org/) - Particle physics data analysis in Python.
+3. [CPV in the Standard Model](http://www-f9.ijs.si/~cindro/seminars/predstavitev.pdf) - Some slides on the advanced physics behind the process considered. 
 
