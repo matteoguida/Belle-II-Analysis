@@ -10,7 +10,7 @@ Python versions supported:
 You can recreate the conda environment used for this analysis with:
 
 ```
-conda enf create -f environment.yml
+conda env create -f environment.yml
 ```
 # Goal
 One of the studies carried out with the [Belle II experiment](https://belle2.jp/#) is time-dependent CP asymmetry in the decay channel :
