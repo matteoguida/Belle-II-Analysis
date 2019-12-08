@@ -31,8 +31,8 @@ At the end the [branching fraction](https://en.wikipedia.org/wiki/Branching_frac
 
 ### Supervised by:
 
-- Professor Marco Zanetti (University of Padova, CERN)
-- Professor Stefano Lacaprara (University of Padova, BELLE2)
+- Professor [Marco Zanetti](https://github.com/mzanetti79) (University of Padova, CERN)
+- Professor  [Stefano Lacaprara](https://github.com/lacaprara) (University of Padova, BELLE2)
 
 ## Useful External Links:
 1. [A high-bias, low-variance introduction to Machine Learning for physicists
